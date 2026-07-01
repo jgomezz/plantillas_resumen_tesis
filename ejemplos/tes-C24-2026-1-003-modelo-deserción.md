@@ -7,6 +7,7 @@ carrera_codigo: "C24"
 semestre: "2026-1"
 ciclo: 6
 grupo: "G1"
+seccion: "SI-601"
 modalidad: "P"
 sede: "Sur"
 titulo: "Modelo predictivo de deserción estudiantil basado en aprendizaje automático"

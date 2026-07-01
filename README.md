@@ -69,12 +69,13 @@ Campos de la ficha:
 | `semestre`       | ✓                   | ✓                | `AAAA-N` (N = 1 o 2)                             |
 | `ciclo`          | ✓                   | ✓                | Ciclo académico (1–6)                           |
 | `grupo`          | ✓                   | ✓                | Grupo                                           |
+| `sección`        | ✓                   | ✓                | Sección                                         |
 | `modalidad`      | ✓                   | ✓                | Modalidad: `P` presencial · `R` remoto · `S` semipresencial |
 | `sede`           | ✓                   | ✓                | Sede: `Sur` · `Centro` · `Norte`                |
 | `titulo`         | ✓                   | ✓                | Título del trabajo                              |
 | `autores`        | ✓                   | ✓                | Lista de autores                                |
 | `fecha`          | ✓                   | ✓                | `AAAA-MM-DD`                                     |
-| `anio`           | ✓                   | ✓                | Año                                             |
+| `año`            | ✓                   | ✓                | Año                                             |
 | `palabras_clave` | ✓                   | ✓                | Palabras clave en español                       |
 | `keywords`       | ✓                   | ✓                | Palabras clave en inglés                        |
 | `seccion`        | ✓                   | —                | Solo proyecto integrador                        |

@@ -7,6 +7,7 @@ carrera_codigo: "C24"
 semestre: "2026-1"
 ciclo: 5
 grupo: "G1"
+seccion: "SI-601"
 modalidad: "R"
 sede: "Norte"
 titulo: "Propuesta de arquitectura de microservicios para plataformas de comercio electrónico"

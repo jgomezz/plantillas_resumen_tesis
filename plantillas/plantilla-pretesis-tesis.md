@@ -7,6 +7,9 @@ carrera_codigo: ""
 semestre: "AAAA-N"
 ciclo:
 grupo: ""
+seccion: ""
+modalidad: ""
+sede: ""
 titulo: ""
 autores: ["", ""]
 asesor: ""
