@@ -85,9 +85,9 @@ distinta del prefijo del `id` (`pti` / `pre` / `tes`).
 
 ## 4. Agregar un resumen
 
-1. Descarga la plantilla que corresponda de [`plantillas/`](plantillas/): pretesis/tesis
+1. Descargar la plantilla que corresponda de [`plantillas/`](plantillas/): pretesis/tesis
    o proyecto integrador.
-2. Completa el documento: la ficha de datos y el texto del resumen. Revisa que no queden textos de
+2. Completar el documento: la ficha de datos y el texto del resumen. Revisa que no queden textos de
    ejemplo.
-3. Guarda el archivo como `id-descripción.md` (ver [Nombre del archivo](#2-nombre-del-archivo)).
-4. Súbelo a la carpeta de Monografias de su tesis y en Google Drive, en este <a href="https://drive.google.com/drive/u/1/folders/1XLy9cyVzaGIr8V5ZRyG9LVe4edlYmHww">enlace</a>
+3. Guardar el archivo como `id-descripción.md` (ver [Nombre del archivo](#2-nombre-del-archivo)).
+4. Subir el documento a la carpeta de Monografias de su tesis y en la carpeta  <a href="https://drive.google.com/drive/u/1/folders/1XLy9cyVzaGIr8V5ZRyG9LVe4edlYmHww">Google Drive</a>
