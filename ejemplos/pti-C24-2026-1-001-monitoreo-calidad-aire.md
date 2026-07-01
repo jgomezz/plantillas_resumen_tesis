@@ -1,7 +1,7 @@
 ---
 id: pti-C24-2026-1-001
 tipo: proyecto_integrador
-departamento: "Departamento de Ingeniería"
+departamento: "Tecnología Digital"
 carrera: "Diseño y Desarrollo de Software"
 carrera_codigo: "C24"
 semestre: "2026-1"

@@ -1,7 +1,7 @@
 ---
 id: pre-C24-2026-1-002
 tipo: pretesis
-departamento: "Departamento de Ingeniería"
+departamento: "Tecnología Digital"
 carrera: "Diseño y Desarrollo de Software"
 carrera_codigo: "C24"
 semestre: "2026-1"
