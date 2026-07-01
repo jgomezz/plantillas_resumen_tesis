@@ -7,11 +7,13 @@ carrera_codigo: "C24"
 semestre: "2026-1"
 ciclo: 5
 grupo: "G1"
+modalidad: "R"
+sede: "Norte"
 titulo: "Propuesta de arquitectura de microservicios para plataformas de comercio electrónico"
 autores: ["Andrea Paola Vega Salas"]
 asesor: "Mg. Rosa Elena Ferreyra Díaz"
 fecha: 2026-05-30
-anio: 2026
+año: 2026
 palabras_clave: ["microservicios", "arquitectura de software", "comercio electrónico", "escalabilidad", "computación en la nube"]
 keywords: ["microservices", "software architecture", "e-commerce", "scalability", "cloud computing"]
 ---

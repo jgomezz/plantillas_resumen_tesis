@@ -8,10 +8,12 @@ semestre: "2026-1"
 ciclo: 6
 grupo: "G3"
 seccion: "SI-601"
+modalidad: "S"
+sede: "Centro"
 titulo: "Sistema de monitoreo de calidad del aire con sensores IoT para zonas urbanas de Lima"
 autores: ["Luis Ángel Ramírez Torres", "Carla Sofía Núñez Peña", "Diego Martín Salazar Cruz"]
 fecha: 2026-06-20
-anio: 2026
+año: 2026
 palabras_clave: ["internet de las cosas", "calidad del aire", "sensores", "monitoreo ambiental", "ciudades inteligentes"]
 keywords: ["internet of things", "air quality", "sensors", "environmental monitoring", "smart cities"]
 ---

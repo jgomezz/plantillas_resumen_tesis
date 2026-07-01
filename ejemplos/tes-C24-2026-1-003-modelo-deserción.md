@@ -7,11 +7,13 @@ carrera_codigo: "C24"
 semestre: "2026-1"
 ciclo: 6
 grupo: "G1"
+modalidad: "P"
+sede: "Sur"
 titulo: "Modelo predictivo de deserción estudiantil basado en aprendizaje automático"
 autores: ["Jorge Luis Camino Ríos", "Valeria Alessandra Ponce Guerra"]
 asesor: "Dr. Fernando Gutiérrez Palomino"
 fecha: 2026-06-05
-anio: 2026
+año: 2026
 palabras_clave: ["deserción estudiantil", "aprendizaje automático", "modelo predictivo", "educación superior", "minería de datos"]
 keywords: ["student dropout", "machine learning", "predictive model", "higher education", "data mining"]
 ---

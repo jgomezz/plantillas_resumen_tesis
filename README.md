@@ -69,6 +69,8 @@ Campos de la ficha:
 | `semestre`       | ✓                   | ✓                | `AAAA-N` (N = 1 o 2)                             |
 | `ciclo`          | ✓                   | ✓                | Ciclo académico (1–6)                           |
 | `grupo`          | ✓                   | ✓                | Grupo                                           |
+| `modalidad`      | ✓                   | ✓                | Modalidad: `P` presencial · `R` remoto · `S` semipresencial |
+| `sede`           | ✓                   | ✓                | Sede: `Sur` · `Centro` · `Norte`                |
 | `titulo`         | ✓                   | ✓                | Título del trabajo                              |
 | `autores`        | ✓                   | ✓                | Lista de autores                                |
 | `fecha`          | ✓                   | ✓                | `AAAA-MM-DD`                                     |

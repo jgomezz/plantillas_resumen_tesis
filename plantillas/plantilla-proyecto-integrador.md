@@ -8,10 +8,12 @@ semestre: "AAAA-N"
 ciclo:
 grupo: ""
 seccion: ""
+modalidad: ""
+sede: ""
 titulo: ""
 autores: ["", "", ""]
 fecha: AAAA-MM-DD
-anio: AAAA
+año: AAAA
 palabras_clave: ["", "", "", "", ""]
 keywords: ["", "", "", "", ""]
 ---
