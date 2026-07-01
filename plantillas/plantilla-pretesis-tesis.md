@@ -7,13 +7,11 @@ carrera_codigo: ""
 semestre: "AAAA-N"
 ciclo:
 grupo: ""
-modalidad: ""
-sede: ""
 titulo: ""
 autores: ["", ""]
 asesor: ""
 fecha: AAAA-MM-DD
-anio: AAAA
+año: AAAA
 palabras_clave: ["", "", "", "", ""]
 keywords: ["", "", "", "", ""]
 ---
