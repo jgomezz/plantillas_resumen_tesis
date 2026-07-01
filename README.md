@@ -1,13 +1,13 @@
 # Resúmenes de Tesis
 
-Repositorio de resúmenes de **pretesis**, **tesis** y **proyectos integradores**.
+Plantillas de resúmenes de **pretesis**, **tesis** y **proyectos integradores**.
 Cada resumen es un archivo con sus datos (autor, carrera, título, etc.) y el texto
 del resumen.
 
 ## 1. Estructura
 
 ```
-formatos_tesis/
+plantillas_resumen_tesis/
 ├── carreras.md                          # códigos de carrera (tabla de referencia)
 └── plantillas/                          # plantillas en blanco
     ├── plantilla-pretesis-tesis.md
@@ -64,8 +64,8 @@ Campos de la ficha:
 | `id`             | ✓                   | ✓                | Identificador estable (ver [Nombre del archivo](#2-nombre-del-archivo)) |
 | `tipo`           | ✓                   | ✓                | `proyecto_integrador` / `pretesis` / `tesis`    |
 | `departamento`   | ✓                   | ✓                | Departamento académico (`Tecnología Digital`)   |
-| `carrera`        | ✓                   | ✓                | Nombre de la carrera (`Diseño y Desarrollo de Software`) (ver `carreras.md`)     |
-| `carrera_codigo` | ✓                   | ✓                | Código de carrera (`C24`)(ver `carreras.md`)           |
+| `carrera`        | ✓                   | ✓                | Nombre de la carrera (`Diseño y Desarrollo de Software`) (ver [`carreras.md`](carreras.md))     |
+| `carrera_codigo` | ✓                   | ✓                | Código de carrera (`C24`)(ver [`carreras.md`](carreras.md))           |
 | `semestre`       | ✓                   | ✓                | `AAAA-N` (N = 1 o 2)                             |
 | `ciclo`          | ✓                   | ✓                | Ciclo académico (1–6)                           |
 | `grupo`          | ✓                   | ✓                | Grupo                                           |
