@@ -90,4 +90,4 @@ distinta del prefijo del `id` (`pti` / `pre` / `tes`).
 2. Completa el documento: la ficha de datos y el texto del resumen. Revisa que no queden textos de
    ejemplo.
 3. Guarda el archivo como `id-descripción.md` (ver [Nombre del archivo](#2-nombre-del-archivo)).
-4. Súbelo a la carpeta de Drive indicada: **[pega aquí el enlace del Drive]**.
+4. Súbelo a la carpeta de Monografias de su tesis y en Google Drive, en este <a href="https://drive.google.com/drive/u/1/folders/1XLy9cyVzaGIr8V5ZRyG9LVe4edlYmHww">enlace</a>
